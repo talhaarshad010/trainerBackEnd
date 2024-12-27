@@ -1,5 +1,3 @@
-/** @format */
-
 const express = require("express");
 const rootrouter = express.Router();
 
